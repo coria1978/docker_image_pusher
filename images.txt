@@ -7,3 +7,4 @@
 
 #nyanmisaka/jellyfin
 maven:3.3.9-jdk-8
+python:3.10-slim-bullseye
