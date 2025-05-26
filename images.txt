@@ -9,3 +9,4 @@
 maven:3.3.9-jdk-8
 python:3.10-slim-bullseye
 docker.n8n.io/n8nio/n8n
+docker.io/grafana/loki
