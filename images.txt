@@ -11,3 +11,4 @@ python:3.10-slim-bullseye
 docker.n8n.io/n8nio/n8n
 docker.io/grafana/loki
 docker.io/grafana/promtail:latest
+docker.io/easysoft/zentao:16.5
